@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-    - A React budget dashboard
+    - A budget dashboard
     - Making this readme alot better 
     
 - 🌱 I’m currently learning ...
