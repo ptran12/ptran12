@@ -27,8 +27,9 @@ Here are some ideas to get you started:
     
 - 💬 Ask me about ...
 
-    - Anything basketball 
+    - Basketball 
     - Anything tech related
     - Data Engineering 
     - Photography 
+    - Video Games
  
