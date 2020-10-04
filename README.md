@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-    - A budget dashboard
+    - Vanilla Javascript, React, and Python projects
     - Making this readme alot better 
     
 - 🌱 I’m currently learning ...
