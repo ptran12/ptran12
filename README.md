@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
     - Vanilla Javascript, React, and Python projects
     - Making this readme alot better 
+    - Re-doing my Portfolio 
     
 - 🌱 I’m currently learning ...
 
