@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-    - Vanilla Javascript, React, and Python projects
+    - Python and Terraform projects
     
 - 🌱 I’m currently learning ...
 
